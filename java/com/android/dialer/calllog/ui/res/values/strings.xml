@@ -54,4 +54,6 @@
   <!-- Shown as a prompt to turn on the phone permission to enable the call log [CHAR LIMIT=NONE]-->
   <string name="new_call_log_permission_no_calllog">To see your call log, turn on the Phone permission.</string>
 
+  <string name="system_body_font" translatable="false">@*android:string/config_bodyFontFamily</string>
+  
 </resources>
