@@ -29,7 +29,7 @@
       @dimen/dialpad_key_number_default_margin_bottom
     </item>
     <item name="dialpad_end_key_spacing">@dimen/dialpad_bottom_space_height</item>
-    <item name="dialpad_elevation">0dp</item>
+    <item name="dialpad_elevation">4dp</item>
   </style>
 
   <style name="Dialpad.Themed">
